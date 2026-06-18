@@ -1,5 +1,5 @@
 # bachelor-thesis-LambdaMART-TAS-B
-abstract
+This repository contians code for a comparison between a BM25 + LambdaMART and a BM25 + TAS-B pipeline. The experiments are done on the MSMARCO passage dataset and are evaluated using TREC DL 2019 queries. Effectiveness is measured in NDCG@10, and a CodeCarbon tracker is implemented to measure latency (s), energy usage for CPU, GPU and RAM in W, and carbon emissions in gCO\_2. 
 
 # Running the notebooks
 Before running the notebooks make sure you have a google drive directory that matches the project root, or change the project root name
