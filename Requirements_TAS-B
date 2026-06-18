@@ -1,0 +1,5 @@
+sentence-transformers==5.5.1
+codecarbon==3.2.8
+faiss-gpu-cu12==1.14.1.post1
+pyserini==2.3.0
+datasets==4.0.0
