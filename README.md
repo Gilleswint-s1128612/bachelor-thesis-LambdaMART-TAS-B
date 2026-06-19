@@ -11,6 +11,8 @@ Upload the entire cloned repository to your google drive, make sure this matches
 
 This notebook runs in a Python 3.8 and Java 11 environment with strict requirements in the install packages.
 When running installs,  press control C when the cell gets stuck at installing spacy 3.8.2
+This notebook already contains the NDCG evaluation method and the carbon tracker.
 # Running the TAS-B notebook
 The TAS-B notebook runs in a Python 3.12 and Java 21 environment
 Implements the same candidate passages from the BM25 retrieval and reranks it using TAS-B sebastian-hofstaetter/distilbert-dot-tas_b-b256-msmarco model.
+This notebook already contains the NDCG evaluation method and the carbon tracker.
