@@ -14,4 +14,3 @@ When running installs,  press control C when the cell gets stuck at installing s
 # Running the TAS-B notebook
 The TAS-B notebook runs in a Python 3.12 and Java 21 environment
 Implements the same candidate passages from the BM25 retrieval and reranks it using TAS-B sebastian-hofstaetter/distilbert-dot-tas_b-b256-msmarco model.
-# Results?
